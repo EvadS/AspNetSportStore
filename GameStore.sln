@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 2013 for Web
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsStore.WebUI", "SportsStore.WebUI\SportsStore.WebUI.csproj", "{5620A400-2811-4719-BFC5-49E884967027}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameStore.WebUI", "SportsStore.WebUI\GameStore.WebUI.csproj", "{5620A400-2811-4719-BFC5-49E884967027}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsStore.Domain", "SportsStore.Domain\SportsStore.Domain.csproj", "{DE93E48E-F76B-438A-AF47-89D2CFAB5724}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameStore.Domain", "SportsStore.Domain\GameStore.Domain.csproj", "{DE93E48E-F76B-438A-AF47-89D2CFAB5724}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsStore.UnitTests", "SportsStore.UnitTests\SportsStore.UnitTests.csproj", "{D18160AA-7849-478B-88E1-8718E5486182}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameStore.UnitTests", "SportsStore.UnitTests\GameStore.UnitTests.csproj", "{D18160AA-7849-478B-88E1-8718E5486182}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

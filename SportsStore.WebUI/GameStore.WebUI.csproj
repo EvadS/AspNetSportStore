@@ -183,9 +183,9 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <ProjectReference Include="..\SportsStore.Domain\SportsStore.Domain.csproj">
+    <ProjectReference Include="..\SportsStore.Domain\GameStore.Domain.csproj">
       <Project>{de93e48e-f76b-438a-af47-89d2cfab5724}</Project>
-      <Name>SportsStore.Domain</Name>
+      <Name>GameStore.Domain</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
