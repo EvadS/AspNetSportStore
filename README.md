@@ -1,2 +1,2 @@
-# AspNetSportStore
-simple project for demo hoe to work with asp.net mvc 5 
+# Game store
+С# интернет магазин на asp.net mvc 5 
